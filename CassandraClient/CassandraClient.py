@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# A crm cassandra client.
+# A cassandra client.
 
 from cassandra.cluster import Cluster
 from cassandra.policies import DCAwareRoundRobinPolicy
